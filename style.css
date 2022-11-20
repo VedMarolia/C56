@@ -1,0 +1,14 @@
+body {
+    text-align :center;
+    background-color:yellowgreen ;
+}
+h1 {
+color:blue;
+border:10px;
+border-radius: 15px;
+border-color: orange;
+}
+h2 {
+    color:brown;
+    text-decoration-style: solid;
+}
